@@ -1,0 +1,3 @@
+Learning Git is important because it helps manage code changes efficiently.  
+It allows teams to collaborate on projects without overwriting each other's work.  
+GitHub makes it easy to store, share, and track code history in one place.  
